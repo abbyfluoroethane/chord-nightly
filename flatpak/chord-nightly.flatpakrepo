@@ -1,0 +1,7 @@
+[Flatpak Repo]
+Title=Chord nightly
+Url=https://bigaouette.com/chord-nightly/flatpak/repo/
+Homepage=https://bigaouette.com/chord-site/
+Comment=Test builds of Chord. Stable builds will be on Flathub.
+RuntimeRepo=https://dl.flathub.org/repo/flathub.flatpakrepo
+GPGKey=mDMEasH+ihYJKwYBBAHaRw8BAQdARCi8TSoPXEndSsdhiFKTSsXacjC1zxunX5nj9PIIo4W0LkNob3JkIEZsYXRwYWsgcmVwb3NpdG9yeSA8YWJieUBiaWdhb3VldHRlLmNvbT6IkwQTFgoAOxYhBFBWkbQ0tLYufvRqLF9jfsvtbL/uBQJqwf6KAhsDBQsJCAcCAiICBhUKCQgLAgQWAgMBAh4HAheAAAoJEF9jfsvtbL/u3g4BAObpAVR3msPg5capeUo3qkWZ9Z6hh/PxOstEiMwD3jNJAP4sscbE4+NJAMXcETY/y0PUUSEb4Msm3k6Ls3ZtCGxBAw==

@@ -1,0 +1,10 @@
+[Flatpak Ref]
+Name=space.foid.chord
+Branch=beta
+Title=Chord (beta)
+Url=https://bigaouette.com/chord-nightly/flatpak/repo/
+SuggestRemoteName=chord-nightly
+Homepage=https://bigaouette.com/chord-site/
+RuntimeRepo=https://dl.flathub.org/repo/flathub.flatpakrepo
+IsRuntime=false
+GPGKey=mDMEasH+ihYJKwYBBAHaRw8BAQdARCi8TSoPXEndSsdhiFKTSsXacjC1zxunX5nj9PIIo4W0LkNob3JkIEZsYXRwYWsgcmVwb3NpdG9yeSA8YWJieUBiaWdhb3VldHRlLmNvbT6IkwQTFgoAOxYhBFBWkbQ0tLYufvRqLF9jfsvtbL/uBQJqwf6KAhsDBQsJCAcCAiICBhUKCQgLAgQWAgMBAh4HAheAAAoJEF9jfsvtbL/u3g4BAObpAVR3msPg5capeUo3qkWZ9Z6hh/PxOstEiMwD3jNJAP4sscbE4+NJAMXcETY/y0PUUSEb4Msm3k6Ls3ZtCGxBAw==
